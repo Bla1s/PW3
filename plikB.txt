@@ -1,3 +1,0 @@
-ciężka ogromna i pot z niej spływa.
-\input{plikC.txt}
-Żar z rozgrzanego jej brzucha bucha
