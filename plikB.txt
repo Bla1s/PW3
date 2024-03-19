@@ -1,0 +1,4 @@
+Ptaki w powietrzu swobodnie latają,
+Dzieci bawią się wesoło,
+\input{plikC.txt}
+W oddali szumią strumienie,

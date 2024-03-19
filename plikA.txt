@@ -1,0 +1,6 @@
+W obłokach słońce świeci jasno,
+Na łące kwiaty wiatr rozwiewa,
+\input{plikB.txt}
+A natura ożywa w pełni swojej mocy,
+\input{plikD.txt}
+Na łące kwiaty wiatr rozwiewa.
